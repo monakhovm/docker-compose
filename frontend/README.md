@@ -1,5 +1,4 @@
 # ![React + Redux Example App](project-logo.png)
-Test2 (test 1 in the end)
 
 [![RealWorld Frontend](https://img.shields.io/badge/realworld-frontend-%23783578.svg)](http://realworld.io)
 
