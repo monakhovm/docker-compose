@@ -2,7 +2,7 @@ version: "3"
 services:
         frontend:
                 build: ./frontend
-                image: 777mmonakhov/my-frontend:0.0.1
+                image: 777mmonakhov/my-frontend:0.0.2
                 ports:
                      - '8080:4100'
                 networks:
