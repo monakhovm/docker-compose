@@ -1,5 +1,4 @@
 # ![React + Redux Example App](project-logo.png)
-Test2 (test 1 in the end)
 
 [![RealWorld Frontend](https://img.shields.io/badge/realworld-frontend-%23783578.svg)](http://realworld.io)
 
@@ -74,4 +73,3 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
 
 [![Brought to you by Thinkster](https://raw.githubusercontent.com/gothinkster/realworld/master/media/end.png)](https://thinkster.io)
 
-Test
